@@ -215,4 +215,12 @@
     "decimals": 9,
     "logoURI": "https://drive.google.com/file/d/1qLaSrRdgEbK8ibxhEp3zrYWGaOyzSybI/view?usp=sharing"
   }
+  {
+    "chainId": 1666600000,
+    "address": "0xfa1184b73a24c5426103766579a2ca9dd4e465f2",
+    "symbol": "SUN",
+    "name": "Sun",
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/jWZQfzg.png"
+  }
 ]
